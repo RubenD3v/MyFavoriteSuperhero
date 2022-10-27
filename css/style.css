@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "StarWars";
+    src: url(DeathStar-VmWB.ttf) format(truetype);
+}
+
+body{
+    margin: 0;  
+}
+header{
+    font-family: "StarWars", sans-serif;
+    background-color: #AB1822;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+header-image{
+    border-radius: 360px;
+}
