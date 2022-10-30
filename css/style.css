@@ -12,9 +12,9 @@ header{
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
-    color: white;
+    color: rgb(52, 2, 2);
     font-size: 30px;
-    text-shadow: 3px 5px rgb(250, 100, 0);
+    text-shadow: black;
 }
 header-image{
     border-radius: 360px;
