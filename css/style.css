@@ -14,7 +14,7 @@ header{
     padding-bottom: 40px;
     color: white;
     font-size: 30px;
-    text-shadow: 3px 5px #000000;
+    text-shadow: 3px 5px rgb(250, 100, 0);
 }
 header-image{
     border-radius: 360px;
