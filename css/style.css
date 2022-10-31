@@ -19,3 +19,7 @@ header{
 header-image{
     border-radius: 360px;
 }
+ul{
+    list-style-type: upper-roman;
+    padding: 0;
+}
